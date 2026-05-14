@@ -28,8 +28,12 @@ Using this relation, astronomers can estimate distances to faraway galaxies, mak
  ┣ 📂 Notebooks
  ┃ ┣ 📓 A4P1.ipynb
  ┃ ┗ 📓 A4P2.ipynb
+ ┣ 📜 requirements.txt
+ ┣ 📂 Data
+   ┣  Cephieds(1).csv
+   ┗  Curve(1).csv
 ```
-
+> *Run command [pip install -r requirements.txt] before executing any notebook*
 ---
 
 ## 📊 Part 1: Data Analysis & Light Curve Study
